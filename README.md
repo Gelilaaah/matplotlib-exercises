@@ -1,174 +1,158 @@
-\# 📊 Matplotlib Exercises
+# 📊 Matplotlib Exercises
 
+Welcome to my **Matplotlib Exercises** repository! 🚀
 
-
-Welcome to my \*\*Matplotlib Exercises\*\* repository! 🚀
-
-
-
-This repository contains a collection of exercises, examples, and practice notebooks that I completed while learning \*\*Matplotlib\*\*, Python's most popular data visualization library.
+This repository contains a collection of exercises, examples, and practice notebooks that I completed while learning **Matplotlib**, Python's most popular data visualization library.
 
 
 
 The goal of this repository is to build a solid understanding of creating informative, customizable, and visually appealing plots for data analysis and machine learning.
 
+---
 
-
-\---
-
-
-
-\## 📖 About
-
+## 📖 About
 
 
 Matplotlib is a powerful Python library used for:
 
 
+- 📈 Data Visualization
 
-\- 📈 Data Visualization
+- 📊 Statistical Charts
 
-\- 📊 Statistical Charts
+- 📉 Trend Analysis
 
-\- 📉 Trend Analysis
+- 📋 Exploratory Data Analysis (EDA)
 
-\- 📋 Exploratory Data Analysis (EDA)
-
-\- 🤖 Machine Learning Visualization
+- 🤖 Machine Learning Visualization
 
 
 
 This repository documents my learning process through hands-on exercises ranging from basic plotting to more advanced visualization techniques.
 
 
-
-\---
-
+---
 
 
-\## 🎯 Learning Objectives
-
+## 🎯 Learning Objectives
 
 
 Throughout these exercises, I practiced:
 
+- Creating basic plots
 
+- Customizing charts
 
-\- Creating basic plots
+- Working with multiple plots
 
-\- Customizing charts
+- Visualizing different datasets
 
-\- Working with multiple plots
+- Understanding figure and axes objects
 
-\- Visualizing different datasets
+- Applying plot styling
 
-\- Understanding figure and axes objects
+- Creating publication-quality visualizations
 
-\- Applying plot styling
 
-\- Creating publication-quality visualizations
+---
 
 
 
-\---
+## 📚 Topics Covered
 
 
 
-\## 📚 Topics Covered
+### 📌 Basic Plotting
 
 
 
-\### 📌 Basic Plotting
+- Line Plots
 
+- Scatter Plots
 
+- Bar Charts
 
-\- Line Plots
+- Horizontal Bar Charts
 
-\- Scatter Plots
+- Histograms
 
-\- Bar Charts
+- Pie Charts
 
-\- Horizontal Bar Charts
 
-\- Histograms
 
-\- Pie Charts
+### 🎨 Plot Customization
 
 
 
-\### 🎨 Plot Customization
+- Titles
 
+- Axis Labels
 
+- Legends
 
-\- Titles
+- Colors
 
-\- Axis Labels
+- Line Styles
 
-\- Legends
+- Markers
 
-\- Colors
+- Grid Lines
 
-\- Line Styles
 
-\- Markers
 
-\- Grid Lines
+### 📐 Figure Management
 
 
 
-\### 📐 Figure Management
+- Figure Size
 
+- Subplots
 
+- Multiple Figures
 
-\- Figure Size
+- Tight Layout
 
-\- Subplots
+- Shared Axes
 
-\- Multiple Figures
 
-\- Tight Layout
 
-\- Shared Axes
+### 📊 Statistical Visualizations
 
 
 
-\### 📊 Statistical Visualizations
+- Histograms
 
+- Frequency Distributions
 
+- Box Plots
 
-\- Histograms
+- Error Bars
 
-\- Frequency Distributions
 
-\- Box Plots
 
-\- Error Bars
+### 🎯 Advanced Features
 
 
 
-\### 🎯 Advanced Features
+- Annotations
 
+- Text Labels
 
+- Styles
 
-\- Annotations
+- Color Maps
 
-\- Text Labels
+- Saving Figures
 
-\- Styles
+- Custom Ticks
 
-\- Color Maps
 
-\- Saving Figures
 
-\- Custom Ticks
+---
 
 
 
-\---
-
-
-
-\## 📂 Repository Structure
+## 📂 Repository Structure
 
 
 
@@ -220,41 +204,41 @@ matplotlib-exercises/
 
 
 
-> \*The repository structure may change as I continue learning and adding new exercises.\*
+> *The repository structure may change as I continue learning and adding new exercises.*
 
 
 
-\---
+---
 
 
 
-\## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 
 
-\- Python 3
+- Python 3
 
-\- Matplotlib
+- Matplotlib
 
-\- NumPy
+- NumPy
 
-\- Pandas
+- Pandas
 
-\- Jupyter Notebook
+- Jupyter Notebook
 
-\- VS Code
-
-
-
-\---
+- VS Code
 
 
 
-\## 🚀 Getting Started
+---
 
 
 
-\### Clone the repository
+## 🚀 Getting Started
+
+
+
+### Clone the repository
 
 
 
@@ -296,7 +280,7 @@ Run any exercise
 
 ```bash
 
-python exercises/line\_plots.py
+python exercises/main.py
 
 ```
 
@@ -314,31 +298,30 @@ jupyter notebook
 
 
 
-\---
+---
 
 
 
-\## 📸 Sample Visualizations
+## 📸 Sample Visualizations
 
 
 
 This repository includes examples of:
 
 
+- 📈 Line Charts
 
-\- 📈 Line Charts
+- 📊 Bar Charts
 
-\- 📊 Bar Charts
+- 🎯 Scatter Plots
 
-\- 🎯 Scatter Plots
+- 🥧 Pie Charts
 
-\- 🥧 Pie Charts
+- 📉 Histograms
 
-\- 📉 Histograms
+- 📦 Box Plots
 
-\- 📦 Box Plots
-
-\- 📋 Multiple Subplots
+- 📋 Multiple Subplots
 
 
 
@@ -346,11 +329,11 @@ More visualizations will be added as I continue learning.
 
 
 
-\---
+---
 
 
 
-\## 🌱 What I'm Learning
+## 🌱 What I'm Learning
 
 
 
@@ -362,25 +345,25 @@ Learning Matplotlib helps me build the visualization skills needed for:
 
 
 
-\- Exploratory Data Analysis
+- Exploratory Data Analysis
 
-\- Data Science
+- Data Science
 
-\- Machine Learning
+- Machine Learning
 
-\- Deep Learning
+- Deep Learning
 
-\- Research
+- Research
 
-\- Dashboard Development
-
-
-
-\---
+- Dashboard Development
 
 
 
-\## 🤝 Contributions
+---
+
+
+
+## 🤝 Contributions
 
 
 
@@ -392,63 +375,47 @@ If you have suggestions for improving the exercises or visualization techniques,
 
 
 
-\---
+---
 
 
 
-\## ⭐ Future Improvements
+## ⭐ Future Improvements
 
 
 
-\- More advanced plotting techniques
+- More advanced plotting techniques
 
-\- Real-world datasets
+- Real-world datasets
 
-\- Seaborn exercises
+- Seaborn exercises
 
-\- Interactive plots
+- Interactive plots
 
-\- Data storytelling examples
+- Data storytelling examples
 
-\- Machine Learning visualization examples
-
-
-
-\---
+- Machine Learning visualization examples
 
 
 
-\## 📄 License
+---
 
 
 
-This project is licensed under the MIT License.
+## 👩‍💻 Author
 
 
 
-\---
-
-
-
-\## 👩‍💻 Author
-
-
-
-\*\*Gelila Melaku\*\*
+**Gelila Melaku**
 
 
 
 Software Engineering Student | Aspiring AI \& Machine Learning Engineer
 
 
+- GitHub: https://github.com/Gelilaaah
 
-\- GitHub: https://github.com/Gelilaaah
+- LinkedIn: https://www.linkedin.com/in/gelila-melaku
 
-\- LinkedIn: https://www.linkedin.com/in/gelila-melaku
-
-
-
-\---
 
 
 
